@@ -36,6 +36,7 @@ export const Jsx8 = () => {
                   <td>{item.name}</td>
                   <td>{item.country}</td>
                   <td>{item.population}</td>
+                  
 
                 </tr>
               ))}
